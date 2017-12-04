@@ -13,3 +13,5 @@ Questions:
 - Which names are seen a lot?
 - Which names are clicked a lot?
 - Which names are clicked a lot per view?
+
+[Recommendation engine notebook](https://github.com/rockestate/bootcamp2017/blob/master/notebooks/recommandation-engine.ipynb)
