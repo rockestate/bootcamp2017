@@ -8,7 +8,7 @@ Baby name recommender website
 
 [Baby names dataset](https://s3-eu-west-1.amazonaws.com/rockestate-public/bootcamp/digitiser_dataset.csv)
 
-Questions:
+**Questions**:
 
 - Which names are seen a lot?
 - Which names are clicked a lot?
@@ -17,3 +17,5 @@ Questions:
 [Recommendation engine notebook](https://github.com/rockestate/bootcamp2017/blob/master/notebooks/recommandation-engine.ipynb
 
 [Popularity dataset](https://s3-eu-west-1.amazonaws.com/rockestate-public/bootcamp/popularity.csv)
+
+**Question**: How often do people click on the most popular name (2016 popularity)?
