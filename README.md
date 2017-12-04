@@ -14,4 +14,6 @@ Questions:
 - Which names are clicked a lot?
 - Which names are clicked a lot per view?
 
-[Recommendation engine notebook](https://github.com/rockestate/bootcamp2017/blob/master/notebooks/recommandation-engine.ipynb)
+[Recommendation engine notebook](https://github.com/rockestate/bootcamp2017/blob/master/notebooks/recommandation-engine.ipynb
+
+[Popularity dataset](https://s3-eu-west-1.amazonaws.com/rockestate-public/bootcamp/popularity.csv)
