@@ -31,11 +31,16 @@ Baby name recommender website
 - Pick a user, and set up a cross-validation loop of the questions
 - For each fold, build a random forest model of feedback given the features on the train set and evaluate *correctness* on the test set.
 
-# Bayesian clicks
+# Bayesian statistics
 
 [Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution)
+
+[Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 # Pairwise transformation
 
 [Blog post](http://fa.bianp.net/blog/2012/learning-to-rank-with-scikit-learn-the-pairwise-transform/)
 
+# Ethics of recommendation engines
+
+[Beyond accuracy](https://en.wikipedia.org/wiki/Recommender_system#Beyond_accuracy)
