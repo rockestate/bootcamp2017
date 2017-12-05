@@ -20,6 +20,8 @@ Baby name recommender website
 
 **Question**: How often do people click on the most popular name (2016 popularity)?
 
+# Content-based recommender
+
 [Features](https://s3-eu-west-1.amazonaws.com/rockestate-public/bootcamp/features.csv)
 
 **Task**: 
