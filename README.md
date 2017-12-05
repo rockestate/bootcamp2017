@@ -30,3 +30,12 @@ Baby name recommender website
 - Merge features and feedback
 - Pick a user, and set up a cross-validation loop of the questions
 - For each fold, build a random forest model of feedback given the features on the train set and evaluate *correctness* on the test set.
+
+# Bayesian clicks
+
+[Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution)
+
+# Pairwise transformation
+
+[Blog post](http://fa.bianp.net/blog/2012/learning-to-rank-with-scikit-learn-the-pairwise-transform/)
+
