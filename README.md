@@ -31,6 +31,13 @@ Baby name recommender website
 - Pick a user, and set up a cross-validation loop of the questions
 - For each fold, build a random forest model of feedback given the features on the train set and evaluate *correctness* on the test set.
 
+# Collaborative filtering
+
+**Task**:
+- Construct a User-Product matrix
+- Construct a User-User similarity matrix
+- Produce recommendations based on top 20 similar users for a given user.
+
 # Bayesian statistics
 
 [Beta distribution](https://en.wikipedia.org/wiki/Beta_distribution)
